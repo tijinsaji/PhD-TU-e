@@ -1,5 +1,7 @@
 #usr/bin/python3
 
+# A Python script to obtain the excess chemical potential from the folders of the thermodynamic integration simulation setup in Brick-CFCMC
+
 import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
