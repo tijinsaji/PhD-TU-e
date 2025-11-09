@@ -1,1 +1,1 @@
-#Write about contents of this repository here
+This repository contains the scripts written during my PhD
